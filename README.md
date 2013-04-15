@@ -1,2 +1,6 @@
 This is an example project on github as created behind the corporate proxy
-in Bristol
+in Bristol.
+
+Adding some more comments then.
+
+Jim Ball (15/04/2013)
